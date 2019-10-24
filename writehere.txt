@@ -1,0 +1,8 @@
+10.10.10.1 is down!
+10.10.2.0 is down!
+10.10.10.0 is down!
+10.10.10.1 is down!
+10.10.10.2 is down!
+10.10.10.3 is down!
+2.2.2.2 is down!
+google.com is up!
